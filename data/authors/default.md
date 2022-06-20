@@ -13,6 +13,6 @@ I didn't grow up thinking i'd be a software developer 👨🏾‍💻 one day. I
 
 In learning to code, I discovered a line of work that challenged my intellect 🧠, appealed to my love of design and aesthetics , and also offered the kind of freedom and control over one's own time 🕑 that I was looking for. As a software engineer, I truly never work a day in my life!
 
-Now as a business owner and trading consultant with Protracon, I trade stocks 📈 and futures 📉, and freelance as a software engineer via Protracon Web Services 🌐.
+Now as a business owner and trading consultant with Protracon, I trade stocks 📈 and futures 📉, and study software engineering via FreeCodeCamp, The Odin Project, YouTube, and any other free resource I can get my hands on. It's quite amazing how much you can learn for free on the internet these days 🌐.
 
 Things I like to do in my free time include playing the guitar 🎸 and piano 🎹, reading books 📖 about Finance, English Literature, History, Science/Technology, and emjoying the beautiful outdoors 🌳 here in Boquete, Panama [insert panamanian flag].
