@@ -9,7 +9,7 @@ linkedin: https://www.linkedin.com
 github: https://github.com
 ---
 
-I didn't grow up thinking i'd be a software developer 👨🏾‍💻 one day. I always thought i'd be a doctor 👨🏾‍⚕️ of some kind - had the grades for it too and all 🤓. It was in my second year of pre-med that the pandemic 😷 struck, and in the existential crisis that followed I shifted gears and chose the path that I'm on now - and I've never looked back!
+I didn't grow up thinking i'd be a software engineer 👨🏾‍💻 one day. I always thought i'd be a doctor 👨🏾‍⚕️ of some kind - had the grades for it too and all 🤓. It was in my second year of pre-med that the pandemic 😷 struck, and in the existential crisis that followed I shifted gears and chose the path that I'm on now - and I've never looked back!
 
 In learning to code, I discovered a line of work that challenged my intellect 🧠, appealed to my love of design and aesthetics , and also offered the kind of freedom and control over one's own time 🕑 that I was looking for. As a software engineer, I truly never work a day in my life!
 
