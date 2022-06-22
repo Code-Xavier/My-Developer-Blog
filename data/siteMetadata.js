@@ -2,7 +2,7 @@ const siteMetadata = {
   title: `Xavier's Developer Blog`,
   author: 'Xavier Valois-Smith',
   headerTitle: `Xavier's Developer Blog`,
-  description: 'Follow me in this personal blog about my journey as a software engineer',
+  description: 'Follow me in this personal blog about my journey as a software developer',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.xaviervaloissmith.com',
